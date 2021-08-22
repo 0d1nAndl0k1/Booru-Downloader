@@ -14,6 +14,9 @@ Now all you ned to do is enter your tag press enter and then you can enter your 
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/878860303612395572/878861147116273674/unknown.png)
 
+once youve entered all you tags press enter the empty tag box should open the press enter again and it should start like this
+
+![ScreenShot](https://cdn.discordapp.com/attachments/878860303612395572/878861523718651914/unknown.png)
 
 
 
