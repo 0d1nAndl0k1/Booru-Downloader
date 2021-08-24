@@ -6,11 +6,11 @@ URL_API = 'https://rule34.xxx/index.php?page=dapi&s=post&q=index&tags={0}&pid={1
 try:
     import art
     print(art.text2art('R34 downloader'))
-    print("                                         by 0d1n")
+    print("                                         by L0k1")
     print("\r\n")
 
 except:
-    print("R34 downloader\r\nby 0d1n")
+    print("R34 downloader\r\nby L0k1")
 
 def getpostscount(tags):
     api = URL_API.format('+'.join(tags.split()), 0)
